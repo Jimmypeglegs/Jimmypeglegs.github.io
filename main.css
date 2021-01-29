@@ -65,7 +65,8 @@ a:link, a:visited {
     align-content:center;
     justify-content: center;
     margin: auto auto auto auto;
-
+}
+    
 .containerfooter {
     display: flex;
     flex-direction: row;
