@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
-
 * {
     box-sizing: border-box;
     padding: 10px 25px 10px 25px;
 }
-
 
 .container {
     display: flex;
@@ -53,20 +51,10 @@ a:link, a:visited {
     border-radius: 12px;
 }
 
-
 .boxhead {
     text-shadow: 10px 10px 10px #030303;
 }
-
-.vcenter {
-    display: flex;
-    max-width: 1028;
-    max-height: 768;
-    align-content:center;
-    justify-content: center;
-    margin: auto auto auto auto;
-}
-    
+ 
 .containerfooter {
     display: flex;
     flex-direction: row;
@@ -78,7 +66,6 @@ body {
     background-color: rgb(250,235,215, 0);
     }
 
-
 h2 {
     font-family: 'Raleway', sans-serif;
     font-size: 45px;
@@ -88,7 +75,6 @@ h2 {
     border: 2px solid rgb(0, 0, 0);
     border-radius: 12px;
 }
-
 
 p {
     font-family: 'Raleway', sans-serif;
@@ -102,7 +88,6 @@ p {
     border-radius: 12px;
 }
 
-
 video {
     align-self: center;
 }
@@ -113,3 +98,11 @@ video {
     margin-right: auto;
     background-color: rgb(250,235,215, 0);
 }
+
+.vcenter {
+    display: flex;
+    max-width: 1028;
+    max-height: 768;
+    align-content:center;
+    justify-content: center;
+    margin: auto auto auto auto;
