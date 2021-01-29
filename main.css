@@ -58,6 +58,14 @@ a:link, a:visited {
     text-shadow: 10px 10px 10px #030303;
 }
 
+.vcenter {
+    display: flex;
+    max-width: 1028;
+    max-height: 768;
+    align-content:center;
+    justify-content: center;
+    margin: auto auto auto auto;
+
 .containerfooter {
     display: flex;
     flex-direction: row;
