@@ -72,6 +72,7 @@ a:link, a:visited {
     flex-direction: row;
     justify-content: space-evenly
 }
+
 body {
     background-image: url("bh8.jpg");
     background-color: rgb(250,235,215, 0);
